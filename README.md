@@ -1,17 +1,18 @@
-### Hi there 👋
+### Hi there 👋 Im @charanleo25 ![counter](https://enn1pyav5hvt0a.m.pipedream.net)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Charanleo25)
-![counter](https://enn1pyav5hvt0a.m.pipedream.net)
 
 
+### Little info about me
 
-####Here are some ideas to get you started:
+- 🔭 I’m currently working on : Python, website Projects
+- 🌱 I’m currently learning ... Web Dev, SEO, Content Creation .....
+- 👯 I’m looking to collaborate on ... Anything which is a new start
+- 🤔 I’m looking for help with ... Fullstack things
+- 💬 Ask me about ... Are you a Coder?
+- 📫 How to reach me: ... [insta: c.leo25](https://instagram.com/c.leo25) [Mail: charanleo25@gmail.com]
+- 😄 Pronouns: ... Leo?
+- ⚡ Fun fact: ... I Do hack. Because I know HTML. And yes HTML is a programing langauge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+As Grace Hopper said:  :octocat:
+> I’ve always been more interested
+> in the future than in the past.
