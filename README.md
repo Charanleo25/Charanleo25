@@ -1,9 +1,10 @@
 ### Hi there 👋
-![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Charanleo25)
+![counter](https://[https://enn1pyav5hvt0a.m.pipedream.net/].m.pipedream.net)
 
 **Charanleo25/Charanleo25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+####Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
