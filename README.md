@@ -4,11 +4,11 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/edorado93)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://edorado93.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/edorado93)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/thisboyhasnoshame/)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@sachinmalhotra)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/cleo25)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://charanleo25.github.io/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/charanleo25)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/c.leo25/)
+<!-- [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@me)  -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+Software+Engineer;Tech+and+Travel+Blogger;and+a+homemade+chef%3F)](https://git.io/typing-svg)
 
@@ -19,21 +19,17 @@
 - 👯 I’m looking to collaborate on ... Anything which is a new start
 - 🤔 I’m looking for help with ... Fullstack things
 - 💬 Ask me about ... Are you a Coder?
-- 📫 How to reach me: ... [insta: c.leo25](https://instagram.com/c.leo25) [Mail: charanleo25@gmail.com]
+- 📫 How to reach me: ... Mail: charanleo25@gmail.com
 - 😄 Pronouns: ... Leo?
 - ⚡ Fun fact: ... I Do hack. Because I know HTML. And yes HTML is a programing langauge.
+
+<!-- <a href="https://app.daily.dev/cleo25"><img src="https://api.daily.dev/devcards/c7087bcbdf7844d28d3e74e2da673295.png?r=zda" width="200" align="right" alt="Charan Leo's Dev Card"/></a> -->
 
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes" />
 </p>
  
-What I do | What I dont
------------- | -------------
-some intresting things | few unnecessary
-logic | wasting time
 
-
-<a href="https://app.daily.dev/cleo25"><img src="https://github.com/edorado93/edorado93/blob/main/devcard.svg" width="200" align="right" alt="Charan Leo's Dev Card"/></a>
 
 ## 👨‍💻 Github Stats
 
