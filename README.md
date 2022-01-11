@@ -1,8 +1,18 @@
-### Hi There 👋  ![counter](https://enn1pyav5hvt0a.m.pipedream.net)
-![Github stats](https://github-readme-stats.vercel.app/api?username=Charanleo25)
+# Hi, I'm Charan Leo (:computer::beer:)
+
+![counter](https://enn1pyav5hvt0a.m.pipedream.net)
 
 
-### Little info about me
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/edorado93)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://edorado93.github.io/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/edorado93)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/thisboyhasnoshame/)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@sachinmalhotra)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+Software+Engineer;Tech+and+Travel+Blogger;and+a+homemade+chef%3F)](https://git.io/typing-svg)
+
+### Little info about me :octocat:
 
 - 🔭 I’m currently working on : Python, website Projects
 - 🌱 I’m currently learning ... Web Dev, SEO, Content Creation .....
@@ -13,12 +23,23 @@
 - 😄 Pronouns: ... Leo?
 - ⚡ Fun fact: ... I Do hack. Because I know HTML. And yes HTML is a programing langauge.
 
-
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes" />
+</p>
+ 
 What I do | What I dont
 ------------ | -------------
 some intresting things | few unnecessary
 logic | wasting time
 
-As Grace Hopper said:  :octocat:
-> I’ve always been more interested
-> in the future than in the past.
+
+<a href="https://app.daily.dev/cleo25"><img src="https://github.com/edorado93/edorado93/blob/main/devcard.svg" width="200" align="right" alt="Charan Leo's Dev Card"/></a>
+
+## 👨‍💻 Github Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=charanleo25&show_icons=true&theme=dracula" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charanleo25&layout=compact" />
+
+
+<img align="center" src="https://camo.githubusercontent.com/c1ae10a8787aa4a8e7d434ff7ecb5d47695e1c7c7fee85253fb6b54f260eef95/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3131302673656374696f6e3d666f6f74657226616e696d6174696f6e3d7477696e6b6c696e67" />
