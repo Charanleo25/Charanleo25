@@ -14,13 +14,13 @@
 
 ### Little info about me :octocat:
 
-- 🔭 I’m currently working on : Python, website Projects
-- 🌱 I’m currently learning ... Web Dev, SEO, Content Creation .....
-- 👯 I’m looking to collaborate on ... Anything which is a new start
-- 🤔 I’m looking for help with ... Fullstack things
-- 💬 Ask me about ... Are you a Coder?
-- 📫 How to reach me: ... Mail: charanleo25@gmail.com
-- 😄 Pronouns: ... Leo?
+- 🔭 I’m currently working on : Python, Website Projects, React
+- 🌱 I’m currently learning: Web Dev, SEO, Content Creation .....
+- 👯 I’m looking to collaborate on : Anything which is a new start
+- 🤔 I’m looking for help with : Fullstack things
+- 💬 Ask me about : Anime
+- 📫 How to reach me: charan@bvjsci.org
+- 😄 Pronouns: He
 - ⚡ Fun fact: ... I Do hack. Because I know HTML. And yes HTML is a programing langauge.
 
 <!-- <a href="https://app.daily.dev/cleo25"><img src="https://api.daily.dev/devcards/c7087bcbdf7844d28d3e74e2da673295.png?r=zda" width="200" align="right" alt="Charan Leo's Dev Card"/></a> -->
