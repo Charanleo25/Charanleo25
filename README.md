@@ -10,7 +10,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/c.leo25/)
 <!-- [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@me)  -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+Software+Engineer;Tech+and+Travel+Blogger;and+a+homemade+chef%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+Software+Engineer;Tech+and+Travel+Anime;and+a+homemade+chef%3F)](https://git.io/typing-svg)
 
 ### Little info about me :octocat:
 
@@ -19,9 +19,10 @@
 - 👯 I’m looking to collaborate on : Anything which is a new start
 - 🤔 I’m looking for help with : Fullstack things
 - 💬 Ask me about : Anime
-- 📫 How to reach me: charan@bvjsci.org
-- 😄 Pronouns: He
-- ⚡ Fun fact: ... I Do hack. Because I know HTML. And yes HTML is a programing langauge.
+- 📫 How to reach me : charan@bvjsci.org
+- 😄 Pronouns : He
+- 💬 portfolio : charan.deta.dev
+- ⚡ Fun fact: I Do hack. Because I know HTML. And yes HTML is a programing langauge.
 
 <!-- <a href="https://app.daily.dev/cleo25"><img src="https://api.daily.dev/devcards/c7087bcbdf7844d28d3e74e2da673295.png?r=zda" width="200" align="right" alt="Charan Leo's Dev Card"/></a> -->
 
