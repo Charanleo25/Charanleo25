@@ -1,11 +1,11 @@
-# Hi, I'm Charan Leo (:computer::beer:)
+# Hi, I'm Charan Leo (💻+🍺 = 💥)
 
 ![counter](https://enn1pyav5hvt0a.m.pipedream.net)
 
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/cleo25)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://charanleo25.github.io/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://charan.bvjsci.org/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/charanleo25)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/c.leo25/)
 <!-- [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@me)  -->
@@ -18,11 +18,11 @@
 - 🌱 I’m currently learning: Web Dev, SEO, Content Creation .....
 - 👯 I’m looking to collaborate on : Anything which is a new start
 - 🤔 I’m looking for help with : Fullstack things
-- 💬 Ask me about : Anime
+- 💬 Ask me about : Anime, Movies, Series and Tech.
 - 📫 How to reach me : charan@bvjsci.org
 - 😄 Pronouns : He
-- 💬 portfolio : charan.deta.dev
-- ⚡ Fun fact: I Do hack. Because I know HTML. And yes HTML is a programing langauge.
+- 💬 portfolio : [charan.bvjsci.org](https://charan.bvjsci.org/)
+- ⚡ Fun fact: I Do hack. Because I know HTML. And yes HTML is a programing langauge 😉.
 
 <!-- <a href="https://app.daily.dev/cleo25"><img src="https://api.daily.dev/devcards/c7087bcbdf7844d28d3e74e2da673295.png?r=zda" width="200" align="right" alt="Charan Leo's Dev Card"/></a> -->
 
